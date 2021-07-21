@@ -11,10 +11,12 @@ A simple game made in SFML and C++ that features an arrow key-controlled pufferf
 * `-f` or `--fps` to activate FPS display
 
 ### Build dependencies:
-* SFML 2.5.1 (this is the one on my system; you can probably get away with an older one)
+* SFML
 * xxd
 
 ### To build:
 1. Ensure that the above dependencies are on your system.
 2. Run `make` to build the program.
 3. Run the executable with `./super-smash-aeugh`.
+
+Project Discontinued By MFHKiwi - I Will Be Continuing Development From Here.
