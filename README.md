@@ -21,4 +21,4 @@ A simple game made in SFML and C++ that features an arrow key-controlled pufferf
 
 ### The future:
 
-* Project Discontinued By MFHKiwi - I Will Be Continuing Development From Here.
+* Project Discontinued By MFHKiwi - I Will Be Continuing Development From Here™
